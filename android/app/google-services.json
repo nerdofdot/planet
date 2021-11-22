@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "677967174780",
+    "project_id": "planet-a3223",
+    "storage_bucket": "planet-a3223.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677967174780:android:6d11205708aa178f153df9",
+        "android_client_info": {
+          "package_name": "com.dotdevelopingteam.planet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677967174780-4895ci32ga7bj2lpkrku5ihdk77oevln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dotdevelopingteam.planet",
+            "certificate_hash": "8d3ec2e92a433d4c61fa7a5ae3764c4fbbca9a37"
+          }
+        },
+        {
+          "client_id": "677967174780-jsprc9edhgblpsqt2vvdechc5oqmo4bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPLyCa8YuDw9bhTvp_OOs4yUu3-_dT8Vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677967174780-jsprc9edhgblpsqt2vvdechc5oqmo4bd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
